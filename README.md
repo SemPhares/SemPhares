@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SemPhares
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning how to be a better ... all
-- 💞️ I’m looking to collaborate on ML project
+- 👋 ohayo minan san
 
 <!---
 SemPhares/SemPhares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
