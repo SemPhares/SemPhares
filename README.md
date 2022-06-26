@@ -1,11 +1,13 @@
 👋 ohayo minan san
 
-My name is Sem
+My name is Sem. 
+
+I am a 
 
 - ❤️ Data Science lover
-- 👨‍💻 NLP and Cloud Coumputing practicionner
+- 👨‍💻 NLP and Cloud Computing practicionner
 - 🌱 Daily learner 
-- 😋 Big good food lover. Aloco 🍌 is a benedciton from GOD
+- 😋 Big good food lover. Aloco 🍌 is a benedicton from GOD
 
 
 <!-- ## 🏆 My Github Stats:
