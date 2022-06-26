@@ -1,8 +1,15 @@
-- 👋 ohayo minan san
+👋 ohayo minan san
+
+My name is Sem
+
+- ❤️ Data Science lover
+- 👨‍💻 NLP and Cloud Coumputing practicionner
+- 🌱 Daily learner 
+- 😋 Big good food lover. Aloco 🍌 is a benedciton from GOD
 
 
 <!-- ## 🏆 My Github Stats:
-## ![Zoumana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SemPhares&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
+## ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SemPhares&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
 ## ![GitHub Views](https://komarev.com/ghpvc/?username=SemPhares) -->
 
 ## 🏅 My Most Used Languages:
