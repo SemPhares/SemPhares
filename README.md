@@ -7,7 +7,7 @@ I am a
 - ❤️ Data Science lover
 - 👨‍💻 NLP and Cloud Computing practicionner
 - 🌱 Daily learner 
-- 😋 Big good food lover. Aloco 🍌 is a benedicton from GOD
+- 😋 Big good food lover. Aloco 🍌 is a blessing from GOD
 
 
 <!-- ## 🏆 My Github Stats:
