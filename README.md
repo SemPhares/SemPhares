@@ -1,4 +1,4 @@
-# SemPhares GitHub Profile
+# SemPhares
 
 👋 Ohayo minan san
 
