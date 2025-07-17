@@ -16,7 +16,7 @@ I am a :
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemPhares&hide=javascript,html)](https://github.com/SemPhares/github-readme-stats)
 
 <!-- ## 🏆 My Github Stats:
-## ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SemPhares&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
+ ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SemPhares&hide_title=false&count_private=true&show_icons=true&theme=tokyonight)
 ## ![GitHub Views](https://komarev.com/ghpvc/?username=SemPhares) -->
 
 <!---
