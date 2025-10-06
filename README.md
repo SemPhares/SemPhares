@@ -12,7 +12,3 @@ I am a :
 - 🌱 Daily learner 
 - 😋 Big good food lover. Aloco 🍌 is a blessing from GOD
 
-## 🏅 My Most Used Languages:
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SemPhares&hide=javascript,html)](https://github.com/SemPhares/github-readme-stats)
-
-
